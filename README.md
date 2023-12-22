@@ -1,6 +1,6 @@
 # ATM Project
 
-The ATM Project is a system designed independently from the bank System. Developed using structured programming with C++, it offers a set of key features to enhance the user experience.
+The ATM Project is a system designed independently from the bank System. Developed using structured programming with C++.
 
 ## Features
 
